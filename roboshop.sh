@@ -2,7 +2,7 @@
 
 SG_ID="sg-021ff3d197fee6456" # replace with your ID
 AMI_ID="ami-0220d79f3f480ecf5"
-ZONE_ID="Z0166176DLNWXBYP283NP"
+ZONE_ID="Z0166176DLNWXBYP283N"
 DOMAIN_NAME="yamunaraj.online"
 
 for instance in $@
